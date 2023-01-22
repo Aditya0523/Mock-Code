@@ -48,7 +48,7 @@ footer a {
   outline: none;
   border: none;
   margin-bottom: 14px;
-  background: #eee;
+  background: rgb(221, 174, 174);
   font-size: 12px;
   font-weight: bold;
 }
